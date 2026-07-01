@@ -2,7 +2,7 @@
 
 Backend Developer focado em Java
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=ShadownJack)](https://github.com/stats-organization/github-stats-extended)
+[![ShadownJack's GitHub stats](https://github-stats-extended.vercel.app/api?username=ShadownJack)](https://github.com/stats-organization/github-stats-extended)
 
 Atualmente:
 - 💼 Application Developer Intern 
